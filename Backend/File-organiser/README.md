@@ -1,7 +1,7 @@
 
 # File Organizer
 This project uses **Node.js** and **JavaScript** to organize files locally on a PC. It is a **global command** that needs to be run once, and it will organize your files according to file types, such as media, archive, others, and documents.
-
+# [Process]()
 ## Features
 - Organizes files by file type
 - Displays all directories and associated files in tree format
