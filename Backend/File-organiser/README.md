@@ -22,7 +22,7 @@ node  main.js "/Users/username/Desktop"
 
 ## Dependencies
 
-The file organizer depends on the following modules:
+The file organizer depends on the following modules: [Learn-more](https://github.com/Glorycs29/My_Learnings/tree/main/NodeJS)
 
 * `fs` (file system module)
 * `path` (path module)
